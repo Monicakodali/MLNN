@@ -6,4 +6,4 @@ A multilayer perceptron is a feedforward neural network which can distinguish da
 
 
 The models are also re-tested on noise-corrupted image dataset to observe the performance.
-The goal of this project is to optimize the MLP to give the best possible results.
+The goal is to optimize the MLP to give the best possible results.
